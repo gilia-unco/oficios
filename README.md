@@ -10,6 +10,8 @@ Para ejecutar la api rest debe:
 - Ejecutar `node .`
 - El server por defecto escuchará en el puerto 3000
 
+- Levantar BD con Robo3T
+
 # Versiones
 - angular 6.1 (o superior) - `npm install -g @angular/cli`
 - primegn 7.1.3 
