@@ -6,9 +6,14 @@ Aca encontraremos el voluntariado 2019 de oficios.
 Para ejecutar la api rest debe:
 
 - Clonar el proyecto y llenar el archivo "datasources.json" con las credenciales de su BD
-- Ejecutar `npm install`
+- Ejecutar `npm install` en carpeta `client`
 - Ejecutar `node .`
 - El server por defecto escuchará en el puerto 3000
+
+# Versiones
+- angular 6.1 (o superior) - `npm install -g @angular/cli`
+- primegn 7.1.3 
+- nodejs 8
 
 ## Contribution Guidelines
 
