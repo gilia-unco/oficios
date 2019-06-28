@@ -6,7 +6,7 @@ const http = require('http'),
 var mongoose = require('mongoose');
 mongoose.set('useCreateIndex', true);
 
-mongoose.connect("mongodb://localhost:27017/super_logi", { useNewUrlParser: true });
+mongoose.connect("mongodb://localhost:27017/Oficios", { useNewUrlParser: true });
 
 // DECLARAR ROUTES
 
