@@ -21,6 +21,7 @@ var ClienteSchema = Schema({
     apellido: String,
     telefono: String,
     email: String,
+    foto: Image,// ver como guardarla 
     calificacion: [CalificacionCliente]
 });
 var Cliente = mongoose.model('Cliente', ClienteSchema);
